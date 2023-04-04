@@ -116,8 +116,10 @@
 ### 🥇 Сертификаты:
 
 <div>
-  <a href="https://wayup-other.s3.eu-west-2.amazonaws.com/certificates/VS101436885_ru.pdf" > WayUP / Веб-дизайнер: взрывной старт /n </a>
-  <a href="https://wayup-other.s3.eu-west-2.amazonaws.com/certificates/VVN96436885_ru.pdf" > WayUP / Веб-верстальщик: начало /n </a>
+  <ol>
+    <li> <a href="https://wayup-other.s3.eu-west-2.amazonaws.com/certificates/VS101436885_ru.pdf" > WayUP / Веб-дизайнер: взрывной старт </a> <br> </li>
+    <li> <a href="https://wayup-other.s3.eu-west-2.amazonaws.com/certificates/VVN96436885_ru.pdf" > WayUP / Веб-верстальщик: начало </a> <br> </li>
+  </ol>
 </div>
 
 
