@@ -117,8 +117,10 @@
 
 <div>
   <ol>
-    <li> <a href="https://wayup-other.s3.eu-west-2.amazonaws.com/certificates/VS101436885_ru.pdf" > WayUP / Веб-дизайнер: взрывной старт </a> <br> </li>
-    <li> <a href="https://wayup-other.s3.eu-west-2.amazonaws.com/certificates/VVN96436885_ru.pdf" > WayUP / Веб-верстальщик: начало </a> <br> </li>
+    <li>  <img src="https://cdn-icons-png.flaticon.com/512/2504/2504799.png" height="20" alt="WayUP" /> 
+          <a href="https://wayup-other.s3.eu-west-2.amazonaws.com/certificates/VS101436885_ru.pdf" >   Веб-дизайнер: взрывной старт </a> <br> </li>
+    <li> <img src="https://cdn-icons-png.flaticon.com/512/2504/2504799.png" height="10" alt="WayUP" /> 
+      <a href="https://wayup-other.s3.eu-west-2.amazonaws.com/certificates/VVN96436885_ru.pdf" > WayUP / Веб-верстальщик: начало </a> <br> </li>
   </ol>
 </div>
 
