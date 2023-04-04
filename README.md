@@ -91,4 +91,36 @@
 
 ---
 
+### 🤝 Социальные сети:
+
+  <div id="badges">
+    <a href="" target="_blank">
+      <img src="https://cdn-icons-png.flaticon.com/512/2504/2504799.png" width="40" height="40" alt="linkedin" />
+    </a>
+    <a href="https://t.me/VaiTeSmagic" target="_blank">
+      <img src="https://cdn-icons-png.flaticon.com/512/2111/2111646.png" width="40" height="40" alt="telegram" />
+    </a>
+    <a href="" target="_blank">
+      <img src="https://upload.wikimedia.org/wikipedia/commons/7/79/HeadHunter_logo.png" width="40" height="40" alt="hh.ru"/>
+    </a>
+    <a href="https://vk.com/slavatishakov" target="_blank">
+      <img src="https://cdn-icons-png.flaticon.com/512/145/145813.png" width="40" height="40" alt="VK"/>
+    </a>
+    <a href="" target="_blank">
+      <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/a/ab/Yandex_Zen_logo_icon.svg/1024px-Yandex_Zen_logo_icon.svg.png" width="40" height="40" alt="Zen Badge"/>
+    </a>
+  </div>
+
+---
+
+### 🥇 Сертификаты:
+
+<div>
+  <a href="https://wayup-other.s3.eu-west-2.amazonaws.com/certificates/VS101436885_ru.pdf" > WayUP / Веб-дизайнер: взрывной старт </a>
+  <a href="https://wayup-other.s3.eu-west-2.amazonaws.com/certificates/VVN96436885_ru.pdf" > WayUP / Веб-верстальщик: начало </a>
+</div>
+
+
+---
+
 ### 👨‍💻 Проекты:
