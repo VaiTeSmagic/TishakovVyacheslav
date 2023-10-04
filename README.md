@@ -4,15 +4,15 @@
 
 ### :man_technologist: Обо мне:
 
-Я начинающий Frontend-разработчик. Получил диплом бакалавра в Университете "Дубна" по направлению "Информатика и вычислительная техника", сейчас учусь в магистратуре по направлению Прикладная информатика "Искуственный интелект в ситемах управления". После получения бакалавра, был промежуток в пару месяцев, где я пробовал себя во многих направлениях, изучал языки Java, Python, попробовал свои силы в Android разработке и разработке игр на Unity, но больше всего меня зацепила Frontend-разработка! С февраля 2023 года начался мой путь в Frontend-разработке на курсах Нетологии, где я обучаюсь по сей день!
+Я начинающий Frontend-разработчик. Получил диплом бакалавра в Университете "Дубна" по направлению: "Информатика и вычислительная техника", сейчас учусь в магистратуре по направлению: "Прикладная информатика Искуственный интелект в ситемах управления". Повышал свою компетенцию, изучая дополнительные языки такие как: Java, Python, C# и C++. Также пробовал свои силы в Android разработке и разработке игр на Unity, но больше всего меня зацепила Frontend-разработка! Освоил базовые навыки WEB-разработчика, основной стэк: HTML5, CSS3, JavaScript, React, Node.js, Vue.js, PHP, MySQL, NOSQL, Cassandra,  PostgresSQL, GIT, Docker. Web-дизайн: Figma, Adobe Photoshop, Miro. 
 
-- :telescope: Изучаю Frontend-разработку на курсах Нетология, GeekBrains и Slillbox!
+- :telescope: Изучал Frontend-разработку на таких платформах как: Нетология, GeekBrains и Slillbox!
 
-- :seedling: Обязательно этим летом устроиться на фриланс или на стажировку.
+- :seedling: Хочу присоединться к команде Frontend-разработков или Web-разработков.
 
-- :zap: Хочу освоить новую професcию и найти работу в компании в Дубне.
+- :zap: Готов работать в Москва, МО или Санкт-Петербурге с удаленным или гибридным графиком работы или в офисе в городе Дубна МО.
 
-- :mailbox: Как связаться со мной: [![Telegram Badge](https://img.shields.io/badge/-VaiTeSmagic-blue?style=flat&logo=Telegram&logoColor=white)](https://t.me/VaiTeSmagic) [![Gmail Badge](https://img.shields.io/badge/-Gmail-red?style=flat&logo=Gmail&logoColor=white)](mailto:sokoltv260@gmail.com)
+- :mailbox: Контакты для связи со мной: [![Telegram Badge](https://img.shields.io/badge/-VaiTeSmagic-blue?style=flat&logo=Telegram&logoColor=white)](https://t.me/VaiTeSmagic) [![Gmail Badge](https://img.shields.io/badge/-Gmail-red?style=flat&logo=Gmail&logoColor=white)](mailto:sokoltv260@gmail.com)
 
 ---
 
@@ -128,3 +128,12 @@
 ---
 
 ### 👨‍💻 Проекты:
+
+<div>
+  <ol>
+    <li>  <img src="https://kursvill.ru/upload/iblock/57a/a72vqbfbgskwoe2yqhpdz16wqtn2plj8.png" height="20" alt="WayUP" />
+          <a href="https://github.com/VaiTeSmagic/TishakovVyacheslav/tree/main/sportbit-new" >   Верстка Адаптивного Сайта </a> <br> </li>
+    <li>  <img src="[https://kursvill.ru/upload/iblock/57a/a72vqbfbgskwoe2yqhpdz16wqtn2plj8.png](https://www.google.com/url?sa=i&url=https%3A%2F%2Fmoscow.flamp.ru%2Ffirm%2Fnetologiya_centr_onlajjn_obucheniya-4504127917404605&psig=AOvVaw1HHoEzPuYcqcOjKJ3JnLuZ&ust=1696531552213000&source=images&cd=vfe&opi=89978449&ved=0CBEQjRxqFwoTCJC90daG3YEDFQAAAAAdAAAAABAJ)https://www.google.com/url?sa=i&url=https%3A%2F%2Fmoscow.flamp.ru%2Ffirm%2Fnetologiya_centr_onlajjn_obucheniya-4504127917404605&psig=AOvVaw1HHoEzPuYcqcOjKJ3JnLuZ&ust=1696531552213000&source=images&cd=vfe&opi=89978449&ved=0CBEQjRxqFwoTCJC90daG3YEDFQAAAAAdAAAAABAJ" height="20" alt="Netlogiya" />
+      <a href="https://github.com/VaiTeSmagic/TishakovVyacheslav/tree/main/html-2-diploma/sources" >   Верстка сложного сайта с адаптивом </a> <br> </li>
+  </ol>
+</div>
