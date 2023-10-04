@@ -131,9 +131,9 @@
 
 <div>
   <ol>
-    <li>  <img src="https://kursvill.ru/upload/iblock/57a/a72vqbfbgskwoe2yqhpdz16wqtn2plj8.png" height="20" alt="WayUP" />
+    <li>
           <a href="https://github.com/VaiTeSmagic/TishakovVyacheslav/tree/main/sportbit-new" >   Верстка Адаптивного Сайта </a> <br> </li>
-    <li>  <img src="[https://kursvill.ru/upload/iblock/57a/a72vqbfbgskwoe2yqhpdz16wqtn2plj8.png](https://www.google.com/url?sa=i&url=https%3A%2F%2Fmoscow.flamp.ru%2Ffirm%2Fnetologiya_centr_onlajjn_obucheniya-4504127917404605&psig=AOvVaw1HHoEzPuYcqcOjKJ3JnLuZ&ust=1696531552213000&source=images&cd=vfe&opi=89978449&ved=0CBEQjRxqFwoTCJC90daG3YEDFQAAAAAdAAAAABAJ)https://www.google.com/url?sa=i&url=https%3A%2F%2Fmoscow.flamp.ru%2Ffirm%2Fnetologiya_centr_onlajjn_obucheniya-4504127917404605&psig=AOvVaw1HHoEzPuYcqcOjKJ3JnLuZ&ust=1696531552213000&source=images&cd=vfe&opi=89978449&ved=0CBEQjRxqFwoTCJC90daG3YEDFQAAAAAdAAAAABAJ" height="20" alt="Netlogiya" />
+    <li>
       <a href="https://github.com/VaiTeSmagic/TishakovVyacheslav/tree/main/html-2-diploma/sources" >   Верстка сложного сайта с адаптивом </a> <br> </li>
   </ol>
 </div>
