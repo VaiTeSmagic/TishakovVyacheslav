@@ -1,0 +1,234 @@
+header {
+    height: 177vw;
+    position: relative;
+    background-position: center;
+    top: 0;
+    left: 0;
+    right: 0;
+}
+.mobile-menu{
+    width: 10vw;
+    display: flex;
+    flex-direction: column;
+    margin-bottom: 1vw;
+    position: absolute;
+    top: 10vw;
+    right: 1vw;
+    z-index: 5;
+}
+.line-menu{
+    background-color:white;
+    width: 10vw;
+    height: 1vw;
+    margin-top: 2vw;
+}
+
+nav {
+    width: 75vw;
+}
+
+.logo {
+    width: 75vw;
+    margin: 60vw auto 1vw auto;
+}
+
+.content-grops {
+    margin-top: 5vw;
+}
+
+h1 {
+    margin: auto auto;
+    font-size: 6vw;
+    line-height: 7vw;
+    text-align: center;
+    margin-top: 3vw;
+}
+
+.menu {
+    display: none;
+}
+.menu-li {
+    margin-right: 3vw;
+    font-size: 1vw;
+}
+.cards {
+    display: flex;
+    flex-direction: column;
+    margin: 8vw auto 0vw auto;
+    width: 92vw;
+}
+h2 {
+    font-size: 5vw;
+    line-height: 5vw;
+    margin-bottom: 2vw;
+}
+
+.tag{
+    font-size: 4vw;
+    line-height: 3.4vw;
+    margin-right: 4vw;
+}
+
+.tag-groups {
+    margin-top: 2vw;
+    margin-bottom: 2vw;
+
+}
+
+.date {
+    font-size: 3vw;
+    line-height: 3.4vw;
+    margin-right: 1.2vw;
+}
+
+.avtor {
+    font-size: 3vw;
+    line-height: 3.4vw;
+}
+
+.textC {
+    font-size: 4vw;
+    line-height: 4.8vw;
+    margin-top: 1.5vw;
+}
+
+.text-cards {
+    width: 92vw;
+}
+
+.imgC {
+    width: 92vw;
+}
+
+.nav-menu {
+    width: 92vw;
+    margin-left: 3vw;
+    margin-right: 3vw;
+}
+
+.mini-block {
+    display: flex;
+    margin-bottom: 2vw;
+    flex-direction: row;
+}
+
+h3 {
+    font-size: 5vw;
+    line-height: 5.5vw;
+    margin-top: 2vw;
+}
+
+.th3 {
+    margin-bottom: 2vw;
+}
+
+.imgC-mini {
+    width: 20vw;
+    height: 20vw;
+}
+
+.line {
+    width: 20vw;
+    height: 0.5vw;
+    margin: 0.9vw auto 2.5vw auto;
+} 
+
+.date-mini{
+    font-size: 3vw;
+    line-height: 3vw;
+}
+
+.text-mini {
+    margin-left: 1.7vw;
+}
+
+main {
+    width: 98vw;
+    flex-direction: column;
+}
+
+.search-group {
+    height: 12vw;
+}
+
+.search-btn {
+    width: 10vw;
+    height: 10vw;
+    background-size: 1.7vw;
+}
+
+.searhc-text {
+    height: 10vw;
+    width: 90vw;
+    font-size: 3vw;
+    line-height: 3.4vw;
+    padding: 1.2vw 1.7vw;
+}
+
+
+.email-group {
+    height: 10vw;
+    margin-bottom: 15vw;
+}
+
+.email-btn {
+    height: 10vw;
+    font-size: 3vw;
+    line-height: 10vw;
+    margin-top: 2vw;
+}
+
+.email-text {
+    height: 20vw;
+    font-size: 3vw;
+    line-height: 3.4vw;
+    padding: 15px 20px;
+}
+
+.block-li {
+    border: 3px solid #eeeeee; 
+    padding: 0vw 2vw;
+    font-size: 3vw;
+    line-height: 8vw;
+    margin: 0.5vw;
+    justify-content: baseline;
+}
+
+.tn {
+    font-size: 4vw;
+    line-height: 8vw;
+    padding-right: 1vw;
+    margin-left: 3vw;
+}
+
+.number {
+    font-size: 3vw;
+    line-height: 3.1vw;
+}
+
+.line-number {
+    width: 92vw;
+    height: 0.5vw;
+}
+
+.fdiv {
+    height: 20vw;
+    width: 98vw;
+    margin: 5vw auto 5.9vw auto;
+}
+
+.icons-footer {
+    width: 7vw;
+    margin-right: 2vw;
+    margin-left: 2vw;
+}
+
+.icons-f {
+    margin: auto 2.5vw auto 0;
+}
+
+.text-footer {
+    font-size: 3vw;
+    line-height: 5vw;
+    margin: 0 auto 3.4vw auto;
+}

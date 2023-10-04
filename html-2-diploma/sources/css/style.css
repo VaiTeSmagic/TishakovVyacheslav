@@ -1,0 +1,253 @@
+*{
+    margin: 0;
+    padding: 0;
+}
+
+@font-face {
+    font-family: Open;
+    src: url(/sources/fonts/OpenSans-Bold.woff);
+    font-weight: 700;
+    font-style: normal;
+    }
+
+@font-face {
+    font-family: OpenR;
+    src: url(/sources/fonts/OpenSans-Regular.woff);
+    font-weight: 400;
+    font-style: normal;
+    }
+
+header {
+    background-color:black;
+    background-image: url(/sources/images/banner-bg.jpg);
+    background-repeat: no-repeat;
+    background-size: cover;
+    z-index: 1;
+}
+
+header::after{
+    content: '';
+    background-color:black;
+    position: absolute;
+    opacity: 0.6;
+    z-index: 2;
+    height: 100%;
+    top: 0;
+    left: 0;
+    right: 0;
+}
+
+nav {
+    position: relative;
+    text-transform: uppercase;
+    z-index: 3;
+    margin: auto;
+}
+
+h1 {
+    color: white;
+    font-family: 'Open';
+}
+
+.nav-a {
+    color: white;
+    text-decoration: none;
+}
+
+.nav-a:hover {
+    color: #e7e5e5;
+    
+}
+
+.nav-a:focus {
+    border-bottom: white 1px solid;
+}
+
+.menu-li {
+    list-style-type: none;
+    margin-top: auto;
+    margin-bottom: auto;
+    font-family: 'OpenR';
+}
+
+.headers {
+    display: flex;
+    flex-direction: row;
+    flex-wrap: nowrap;
+    margin-top: auto;
+    margin-bottom: auto;
+}
+
+h2 {
+    text-transform: uppercase;
+    font-family: 'Open';
+}
+
+.tag{
+    color: #b59f5b;
+    font-family: "Open";
+    text-transform: uppercase;
+}
+
+.tag-groups {
+    display: flex;
+    flex-direction: row;
+}
+
+.date {
+    color: #888888;
+    font-family: 'OpenR';
+}
+
+.avtor {
+    color: black;
+    font-family: 'Open';
+}
+
+.textC {
+    color: black;
+    font-family: 'OpenR';
+}
+
+.nav-menu {
+    display: flex;
+    flex-direction: column;
+}
+
+.mini-block {
+    display: flex;
+    flex-direction: row;
+}
+
+h3 {
+    color: black;
+    font-family: 'Open';
+}
+
+.th3 {
+    text-align: center;
+}
+
+.line {
+    background-color: #b59f5b;
+} 
+
+.date-mini{
+    color: #888888;
+    font-family: 'OpenR';
+}
+
+main {
+    display: flex;
+    flex-direction: row;
+    justify-content: center;
+    margin-left: auto;
+    margin-right: auto;
+}
+
+.search-group {
+    display: flex;
+    vertical-align: baseline;
+}
+
+.search-btn {
+    background-color: #b59f5b;
+    background-image: url(/sources/images/search.svg);
+    background-repeat: no-repeat;
+    background-position: center center;
+    border: none;
+}
+
+.searhc-text {
+    background-color: #f4f7f6;
+    color: #a2a4a3;
+    font-family: 'OpenR';
+    border: none;
+    box-sizing: border-box;
+}
+
+
+.email-group {
+    display: flex;
+    vertical-align: baseline;
+    flex-direction: column;
+}
+
+.email-btn {
+    background-color: #b59f5b;
+    background-repeat: no-repeat;
+    background-position: center center;
+    border: none;
+    color: #ffff;
+    font-family: 'Open';
+}
+
+.email-text {
+    background-color: #f4f7f6;
+    color: #a2a4a3;
+    font-family: 'OpenR';
+    border: none;
+    box-sizing: border-box;
+}
+
+
+.tags {
+    display: flex;
+    justify-content: flex-start;
+    flex-wrap: wrap;
+}
+
+.block-li {
+    color: black;
+    font-family: 'Open';
+    text-transform: uppercase;
+    list-style-type: none;
+}
+
+.block-li:hover {
+    transition: 0.5s;
+    color: #eeeeee;
+    background-color: black;
+    border: none;
+}
+
+.tn-n {
+    display: flex;
+    flex-direction: row;
+}
+
+.tn {
+    color: black;
+    font-family: 'Open';
+}
+
+.number {
+    color: #b59f5b;
+    font-family: 'Open';
+}
+
+.line-number {
+    background-color: #eeeeee;
+    margin: 0;
+}
+
+.fdiv {
+    padding: 0;
+    display: flex;
+    flex-direction: row;
+    background-color: #f4f7f6;
+    justify-content: center;
+}
+
+.text-footer {
+    display: flex;
+    color: #999999;
+    font-family: 'Open';
+    justify-content: center;
+}
+
+button:hover {
+    background-color: #b7b2a4;
+    transition: 0.3s;
+}
+
