@@ -132,8 +132,10 @@
 <div>
   <ol>
     <li>
-          <a href="https://github.com/VaiTeSmagic/TishakovVyacheslav/tree/main/sportbit-new" >   Верстка Адаптивного Сайта </a> <br> </li>
+      <a href="https://github.com/VaiTeSmagic/TishakovVyacheslav/tree/main/sportbit-new" >   Верстка Адаптивного Сайта </a> <br> </li>
     <li>
       <a href="https://github.com/VaiTeSmagic/TishakovVyacheslav/tree/main/html-2-diploma/sources" >   Верстка сложного сайта с адаптивом </a> <br> </li>
+    <li>
+      <a href="https://github.com/VaiTeSmagic/TishakovVyacheslav/tree/main/lostShirt" >   Верстка сайта с адаптивом с использованием JS</a> <br> </li>
   </ol>
 </div>
